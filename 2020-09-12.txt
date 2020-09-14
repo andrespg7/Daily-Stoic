@@ -1,0 +1,4 @@
+https://es.reactjs.org/docs/create-a-new-react-app.html
+https://www.youtube.com/watch?v=NB9nQlmZ79Q
+https://www.youtube.com/watch?v=raTQe7bsr5g
+https://desarrolloweb.com/articulos/primeros-pasos-react.html
