@@ -1,0 +1,4 @@
+https://desarrolloweb.com/articulos/que-es-react-motivos-uso.html
+https://www.fullstack.pe/blog/angular-data-binding
+https://es.reactjs.org/docs/introducing-jsx.html
+https://desarrolloweb.com/manuales/manual-de-react.html
