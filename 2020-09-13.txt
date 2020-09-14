@@ -1,0 +1,2 @@
+https://www.drauta.com/que-es-react-y-para-que-sirve
+https://reactnative.dev/
